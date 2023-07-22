@@ -38,7 +38,7 @@ span,
 label,
 input,
 textarea {
-  color: var(--secondaryText);
+  color: var(--buttonText);
   font-family: "Shippori Mincho", serif;
 }
 
